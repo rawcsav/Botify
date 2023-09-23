@@ -22,9 +22,8 @@ I also have created a [Flask server](https://github.com/rawcsav/SpotifyFlask) th
 
 **Gavin Mason**
 
-- GitHub: [@your_github_username](https://github.com/rawcsav)
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/gavinmason21/)
+- [LinkedIn](https://www.linkedin.com/in/gavinmason21/)
 - Email: gavin@rawcsav.com
-- Website: [your-website-url.com](https://rawcsav.com)
+- [Website](https://rawcsav.com)
 
 Feel free to get in touch if you have any questions or suggestions.
