@@ -12,11 +12,11 @@ The project is divided into two main parts:
 For a much more in-depth walk through and explanation of my processes and logic, you can either check out the notebook files
 or read my finalized project writeups:
 
-[Botify](https://rawcsav.com/botify10.html)
+[Botify](https://rawcsav.com/projects/botify10.html)
 
-[Botify Grime](https://rawcsav.com/Botify%20Grime.html)
+[Botify Grime](https://rawcsav.com/projects/Botify%20Grime.html)
 
-You can also click [here](https://rawcsav.com/playlists.html) to get a comprehensive look of the playlists in question.
+I also have created a [Flask server](https://github.com/rawcsav/SpotifyFlask) that does some other fun stats/recommendation experiments with Spotify.
 
 ## Created by
 
